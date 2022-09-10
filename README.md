@@ -6,4 +6,4 @@ Check the [Releases](https://github.com/Compiled4U/pycdc/releases) and if you ca
 
 ## Versions
 
-[PYCDC C385](https://github.com/Compiled4U/Ghidra/releases/tag/PYCDC_C385)
+[PYCDC C385](https://github.com/Compiled4U/pycdc/releases/tag/PYCDC_C385)
